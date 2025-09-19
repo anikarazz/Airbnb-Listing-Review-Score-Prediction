@@ -28,7 +28,7 @@ Accurate predictions of high-rated listings can help Airbnb:
 
 ## Project Workflow
 
-1. **Data Loading & Cleaning** — Load the dataset and prepare it for analysis  
+1. **Data Loading & Cleaning** — Load the dataset and prepare it for analysis (if running from zip file, make sure to include 'zipfile.ZipFile' call to extract)
 2. **Exploratory Data Analysis (EDA)** — Understand trends, distributions, and feature relationships  
 3. **Feature Engineering** — Create and refine features for model input 
 4. **Model Training** — Train classification models (e.g., logistic regression, decision trees) 
